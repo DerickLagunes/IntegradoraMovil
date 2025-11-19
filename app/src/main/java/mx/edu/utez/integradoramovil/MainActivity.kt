@@ -21,7 +21,7 @@ class MainActivity : ComponentActivity() {
             IntegradoraMovilTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Greeting(
-                        name = "Androidsdsd",
+                        name = "Androidd",
                         modifier = Modifier.padding(innerPadding)
                     )
                 }
